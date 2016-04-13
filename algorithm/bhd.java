@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Main {
+  //1234
     public static void main(String[] argc) {
         long count = 0;
         Scanner scanner = new Scanner(System.in);
